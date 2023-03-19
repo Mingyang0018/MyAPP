@@ -50,7 +50,7 @@ jpg文件名称修改为M001,M002,M003,...
 目标文件夹路径:手动选择
 文件类型:所有
 
-# excelmerge.exe
+# excelmerge-win/Excel合并器
 操作系统：windows
 功能说明：
 批量合并Excel文件为一个Excel文件，支持文件格式为xls, xlsx, xlsm。
